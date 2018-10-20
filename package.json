@@ -1,0 +1,13 @@
+{
+  "name": "idle-pokemon-breeding",
+  "version": "0.0.1",
+  "description": "A Pokemon idle game WIP",
+  "main": "generateEgg.js",
+  "scripts": {
+    "start": "node generateEgg.js"
+  },
+  "author": "Shiny_Sylveon",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
